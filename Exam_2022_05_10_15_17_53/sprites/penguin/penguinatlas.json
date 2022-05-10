@@ -1,0 +1,30 @@
+{
+	"penguin": {
+		"x": 0,
+		"y": 0,
+		"width": 96,
+		"height": 32,
+		"sliceX": 6,
+        "sliceY": 2,
+		"anims": {
+			"idle": {
+				"from": 0,
+				"to": 4,
+				"speed": 5,
+				"loop": true
+			},
+			"run": {
+				"from": 6,
+				"to": 11,
+				"speed": 8,
+				"loop": true
+			},
+            "jump": {
+                "from": 5,
+			    "to": 5,
+			    "speed": 5,
+                "loop": true
+            }
+		}
+	}
+}
