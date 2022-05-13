@@ -1,0 +1,74 @@
+{
+  "topLeftGrass": {
+    "x": 48,
+	"y": 16,
+	"width": 16,
+	"height": 16
+  },
+  "topGrass": {
+    "x": 64,
+	"y": 16,
+	"width": 16,
+	"height": 16
+  },
+  "topRightGrass": {
+    "x": 80,
+	"y": 16,
+	"width": 16,
+	"height": 16
+  },
+  "midLeftGrass": {
+    "x": 48,
+	"y": 32,
+	"width": 16,
+	"height": 16
+  },
+  "midGrass": {
+    "x": 64,
+	"y": 32,
+	"width": 16,
+	"height": 16
+  },
+  "midRightGrass": {
+    "x": 80,
+	"y": 32,
+	"width": 16,
+	"height": 16
+  },
+  "botLeftGrass": {
+    "x": 48,
+	"y": 96,
+	"width": 16,
+	"height": 16
+  },
+  "botGrass": {
+    "x": 64,
+	"y": 96,
+	"width": 16,
+	"height": 16
+  },
+  "botRightGrass": {
+    "x": 80,
+	"y": 96,
+	"width": 16,
+	"height": 16
+  },
+  "leftLineGrass": {
+    "x": 144,
+	"y": 48,
+	"width": 16,
+	"height": 16
+  },
+  "lineGrass": {
+    "x": 160,
+	"y": 48,
+	"width": 16,
+	"height": 16
+  },
+  "rightLineGrass": {
+    "x": 208,
+	"y": 48,
+	"width": 16,
+	"height": 16
+  }
+}
