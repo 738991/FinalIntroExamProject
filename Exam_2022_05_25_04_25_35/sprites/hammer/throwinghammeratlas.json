@@ -1,0 +1,18 @@
+{
+	"throwingHammer": {
+		"x": 0,
+		"y": 0,
+		"width": 64,
+		"height": 16,
+		"sliceX": 4,
+        "sliceY": 1,
+		"anims": {
+			"main": {
+				"from": 0,
+				"to": 3,
+				"speed": 8,
+				"loop": true
+			}
+		}
+	}
+}
