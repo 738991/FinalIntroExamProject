@@ -8,6 +8,8 @@
 <h3>Player Two:</h3>
 <p>Movement: Arrow Keys</p>
 <p>Attacks: <>?</p>
+<h2>Art Credits</h2>
+<p>Art is by <a href="https://grafxkid.itch.io">grafxkid on itch.io</a></p>
 <h2>Character Screenshots</h2>
 <img src="screenshots/hammerscreenshot.PNG">
 <img src="screenshots/wizardscreenshot.PNG">
