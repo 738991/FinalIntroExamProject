@@ -1,1 +1,1 @@
-# Final Intro Exam Project
+# Pixel Fighters - Final Intro Exam Project
