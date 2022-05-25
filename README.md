@@ -9,5 +9,13 @@
 <p>Movement: Arrow Keys</p>
 <p>Attacks: <>?</p>
 <h2>Character Screenshots</h2>
+<img src="screenshots/hammerscreenshot.PNG">
+<img src="screenshots/wizardscreenshot.PNG">
+<img src="screenshots/penguinscreenshot.PNG">
 <h2>Map Screenshots</h2>
+<img src="screenshots/map1screenshot.PNG">
+<img src="screenshots/map2screenshot.PNG">
 <h2>GameplayScreenshots</h2>
+<img src="screenshots/gameplay1.PNG">
+<img src="screenshots/gameplay2.PNG">
+<img src="screenshots/gameplay3.PNG">
