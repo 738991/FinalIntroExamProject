@@ -16,6 +16,8 @@
 <img src="screenshots/map1screenshot.PNG">
 <img src="screenshots/map2screenshot.PNG">
 <h2>GameplayScreenshots</h2>
+<img src="screenshots/gameplay4.PNG">
+<img src="screenshots/gameplay5.PNG">
 <img src="screenshots/gameplay1.PNG">
 <img src="screenshots/gameplay2.PNG">
 <img src="screenshots/gameplay3.PNG">
